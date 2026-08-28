@@ -8,6 +8,11 @@ It runs entirely on your own machine — nothing leaves your PC. Tobias offers t
 - **Journal** — a private writing space where you can jot down your thoughts as plain `.txt` files, with no analysis or chatbot involved. When you choose, you can "Reflect with Tobias" to bring one entry into a conversation.
 
 Tobias talks only to [Ollama](https://ollama.com) running locally, and optionally uses a local RAG pipeline that searches a folder of psychology/CBT textbooks so answers can be grounded in evidence-based material.
+## About the Name
+
+The name *Tobias* is inspired by Tobias Fünke from *Arrested Development*.
+
+Fans of the show may understand why an AI companion for talking things through seemed like an appropriate tribute.
 
 ## Project structure
 
