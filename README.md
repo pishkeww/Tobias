@@ -35,7 +35,6 @@ Tobias - The [Anal]yst-The[rapist]/
   requirements.txt
   start.bat
   Modelfile
-  cbt/                       psychology/CBT textbooks (PDF) used as RAG source (optional)
   data/                      created automatically on first run
     conversations.db         conversations, messages, and the RAG index
     settings.json
